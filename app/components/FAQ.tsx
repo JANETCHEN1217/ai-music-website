@@ -1,3 +1,7 @@
+'use client';
+
+import React, { useState } from 'react';
+// 其余代码保持不变...
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { FaPlus, FaMinus } from 'react-icons/fa';
