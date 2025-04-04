@@ -1,3 +1,5 @@
+'use client';
+
 import { FaMusic, FaLanguage, FaPen, FaGuitar, FaHeadphones, FaFreeCodeCamp } from 'react-icons/fa';
 import { motion } from 'framer-motion';
 
